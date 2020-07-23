@@ -1,0 +1,66 @@
+body{
+    padding-bottom: 20px;
+    color: #5a5a5a;
+}
+
+.navbar-wrapper{
+    
+    z-index: 20;
+}
+
+/* .navbar-wrapper > .container {
+    padding-right: 0;
+    padding-left: 0;
+} */
+
+.navbar-wrapper .navbar .container {
+    width: auto;
+}
+
+.carousel {
+    
+    margin-bottom: 10px;
+
+}
+
+.carousel .item {
+    
+    background-color: #777777;
+}
+
+.carousel-inner  .carousal-item  img{
+    
+    min-width: 100%;
+}
+
+.team .col-lg-4 {
+    text-align: center;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.team h2 {
+    color: rgba(36, 35, 35, 0.8);
+}
+
+.team p {
+    margin-left: 10px;
+    margin-right: 10px;
+} 
+
+.divider {
+    margin: 40px 0;
+}
+
+.content-text {
+    padding-right: 50px;
+    padding-left: 50px;
+}
+
+.content {
+    margin-bottom: 30px;
+}
+
+footer {
+    margin: 0 50px;
+}
